@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>SIDHU BOTSTRAP</title>
+    
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom fonts for this template -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <!-- Custom styles for this template -->
+    <link href="css/agency.min.css" rel="stylesheet">
+	
+	<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+		<style>
+		body {background-color: black;}
+		</style>
+  </head>
+		
+	
+		 <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+      <div class="container">
+        <a class="navbar-brand js-scroll-trigger" href="#page-top">Start Bootstrap</a>
+        <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          Menu
+          <i class="fa fa-bars"></i>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav text-uppercase ml-auto">
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#services">Services</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link js-scroll-trigger" href="#about">About</a>
+            </li>
+           
+          </ul>
+        </div>
+      </div>
+    </nav>
+		
+<div class="container">
+    <div class="span3 well">
+        <center>
+        <a href="https://www.facebook.com/JaskaranSidhu" data-toggle="modal" data-target="#myModal"><img src="download.jpg" name="aboutme" width="280" height="300" class="img-circle"></a>
+        <h3>JASKARAN SINGH SIDHU</h3>
+        <em>CLICK ON MY FACE TO KNOW MORE</em>
+		</center>
+    </div>
+   <div class="jumbotron">
+  <h3 class="display-4">Hello, world it's a programmer speaking!</h3>
+  <p class="lead">Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.</p>
+  <hr class="my-4">
+  <p></p>
+
+</div>
+
+
+<div align="center">
+<div class="card" style="width: 30rem;">
+  <img class="card-img-top" src="IMG_4297.jpg" alt="Card image cap">
+  <div class="card-body">
+    <h5 class="card-title">PROFILE</h5>
+    <p class="card-text">I am from INDIA. I have opted to come to canada and study Programming, i am interesated in web designing.</p>
+    <a href="https://moodle.queenscollege.ca/moodle/user/profile.php?id=1233" class="btn btn-primary">MOODLE</a>
+  </div>
+ 
+</div>
+</div>
+  <!-- Services -->
+    <section id="services">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12 text-center">
+            <h2 class="section-heading text-uppercase">Services</h2>
+            <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+          </div>
+        </div>
+        <div class="row text-center">
+          <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+			<a href="https://twitter.com/Jaskaransidhu4">
+              <i class="fa fa-twitter"></i>
+            </span>
+            <h4 class="service-heading">TWITTER</h4>
+            
+          </div>
+          <div class="col-md-4">
+            <span class="fa-stack fa-4x">
+		
+              <i class="fa fa-linkedin"></i>
+            </span>
+			<a href="#">
+            <h4 class="service-heading">INDEED</h4>
+            
+          </div>
+         
+        </div>
+      </div>
+    </section>
+
+    
+<!-- Footer -->
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-4">
+            <span class="copyright">Copyright &copy; Jaskaran Sidhu 2018</span>
+          </div>
+          
+          </div>
+        </div>
+      </div>
+    </footer>
+			<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+		</body>
+</html>
